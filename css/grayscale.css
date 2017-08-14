@@ -153,6 +153,15 @@ a {
   -o-background-size: cover;
   background-size: cover; }
 
+.bottom-section {
+  color: white;
+  background: url("../img/rana.jpg") no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
 #map {
   width: 100%;
   height: 300px; }
